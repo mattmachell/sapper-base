@@ -11,16 +11,6 @@
 		margin: 0 0 0.5em 0;
 	}
 
-	figure {
-		margin: 0 0 1em 0;
-	}
-
-	img {
-		width: 100%;
-		max-width: 400px;
-		margin: 0 0 1em 0;
-	}
-
 	p {
 		margin: 1em auto;
 	}
@@ -36,4 +26,4 @@
 	<title>Test page</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Welcome!</h1>
